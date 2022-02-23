@@ -8,5 +8,5 @@ This is project is an interactive task list that allows a user to add, remove, a
 [Task-List](http://127.0.0.1:5500/index.html)
 #### Author
 * Austin Tran 
-* GitHub: AustinT12
+* GitHub: [AustinT12](https://github.com/AustinT12)
 * LinkedIn: [LinkedIn](https://www.linkedin.com/in/austin-tran12/)
